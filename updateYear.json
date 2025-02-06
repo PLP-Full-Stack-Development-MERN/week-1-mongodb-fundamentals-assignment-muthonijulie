@@ -1,0 +1,10 @@
+[{
+  "_id": {
+    "$oid": "67a4b2aedac4db0c77e43272"
+  },
+  "title": "Don Quixote",
+  "author": "Miquel de Cervantes",
+  "publishedYear": 2023,
+  "genre": "fiction",
+  "ISBN": "9780486821955"
+}]

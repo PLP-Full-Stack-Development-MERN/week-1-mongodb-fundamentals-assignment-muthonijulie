@@ -1,0 +1,66 @@
+[{
+  "_id": {
+    "$oid": "67a475dfdac4db0c77e4326d"
+  },
+  "title": "Pride and prejudice",
+  "author": "Jane Austen",
+  "publishedYear": 1995,
+  "genre": "Domestic fiction",
+  "ISBN": "9780679601685",
+  "rating": 8
+},
+{
+  "_id": {
+    "$oid": "67a47644dac4db0c77e4326e"
+  },
+  "title": "Wuthering Heights",
+  "author": "Emily Bronte",
+  "publishedYear": 1995,
+  "genre": "Physiological fiction",
+  "ISBN": "97801404434187",
+  "rating": 8
+},
+{
+  "_id": {
+    "$oid": "67a476f0dac4db0c77e43270"
+  },
+  "title": "Moby Dick",
+  "author": "Herman Melville",
+  "publishedYear": 1989,
+  "genre": "Sea stories",
+  "ISBN": "9780895773227",
+  "rating": 8
+},
+{
+  "_id": {
+    "$oid": "67a4780bdac4db0c77e43271"
+  },
+  "title": "The scarlet letter",
+  "author": "Nathaniel Hawthorne",
+  "publishedYear": 1991,
+  "genre": "physiological fiction",
+  "ISBN": "9780312060244",
+  "rating": 8
+},
+{
+  "_id": {
+    "$oid": "67a4b2aedac4db0c77e43272"
+  },
+  "title": "Don Quixote",
+  "author": "Miquel de Cervantes",
+  "publishedYear": 2018,
+  "genre": "fiction",
+  "ISBN": "9780486821955",
+  "rating": 8
+},
+{
+  "_id": {
+    "$oid": "67a4b2b5dac4db0c77e43273"
+  },
+  "title": "Jane Eyre",
+  "author": "Charlotte Bronte",
+  "publishedYear": 1991,
+  "genre": "Bildungsromans",
+  "ISBN": "9780679405825",
+  "rating": 8
+}]

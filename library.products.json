@@ -1,0 +1,88 @@
+[{
+  "_id": {
+    "$oid": "67a4a0c6175b434fc2616f02"
+  },
+  "name": "Laptop",
+  "category": "Electronics",
+  "price": 1200
+},
+{
+  "_id": {
+    "$oid": "67a4a0c6175b434fc2616f03"
+  },
+  "name": "Wireless Mouse",
+  "category": "Accessories",
+  "price": 25.5
+},
+{
+  "_id": {
+    "$oid": "67a4a0c6175b434fc2616f04"
+  },
+  "name": "Keyboard",
+  "category": "Accessories",
+  "price": 80
+},
+{
+  "_id": {
+    "$oid": "67a4a0c6175b434fc2616f05"
+  },
+  "name": "Laptop Stand",
+  "category": "Accessories",
+  "price": 45
+},
+{
+  "_id": {
+    "$oid": "67a4a0c6175b434fc2616f06"
+  },
+  "name": "Phone",
+  "category": "Electronics",
+  "price": 899.99
+},
+{
+  "_id": {
+    "$oid": "67a4a0c6175b434fc2616f07"
+  },
+  "name": "Tablet",
+  "category": "Electronics",
+  "price": 350
+},
+{
+  "_id": {
+    "$oid": "67a4a0c6175b434fc2616f08"
+  },
+  "name": "Monitor",
+  "category": "Electronics",
+  "price": 200
+},
+{
+  "_id": {
+    "$oid": "67a4a0c6175b434fc2616f09"
+  },
+  "name": "Headphones",
+  "category": "Audio",
+  "price": 150
+},
+{
+  "_id": {
+    "$oid": "67a4a0c6175b434fc2616f0a"
+  },
+  "name": "Smartwatch",
+  "category": "Wearables",
+  "price": 250
+},
+{
+  "_id": {
+    "$oid": "67a4a0c6175b434fc2616f0b"
+  },
+  "name": "Mouse Pad",
+  "category": "Accessories",
+  "price": 15
+},
+{
+  "_id": {
+    "$oid": "67a4a0c6175b434fc2616f0c"
+  },
+  "name": "Smartphone Case",
+  "category": "Accessories",
+  "price": 30
+}]

@@ -1,0 +1,11 @@
+[{
+  "_id": {
+    "$oid": "67a476f0dac4db0c77e43270"
+  },
+  "title": "Moby Dick",
+  "author": "Herman Melville",
+  "publishedYear": 1989,
+  "genre": "Sea stories",
+  "ISBN": "9780895773227",
+  "rating": 8
+}]

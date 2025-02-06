@@ -1,0 +1,11 @@
+[{
+  "_id": {
+    "$oid": "67a4780bdac4db0c77e43271"
+  },
+  "title": "The scarlet letter",
+  "author": "Nathaniel Hawthorne",
+  "publishedYear": 1991,
+  "genre": "physiological fiction",
+  "ISBN": "9780312060244",
+  "rating": 8
+}]

@@ -1,0 +1,10 @@
+[{
+  "_id": {
+    "$oid": "67a4b2b5dac4db0c77e43273"
+  },
+  "title": "Jane Eyre",
+  "author": "Charlotte Bronte",
+  "publishedYear": 1991,
+  "genre": "Bildungsromans",
+  "ISBN": "9780679405825"
+}]

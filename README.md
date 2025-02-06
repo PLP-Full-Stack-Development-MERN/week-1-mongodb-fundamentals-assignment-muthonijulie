@@ -36,12 +36,13 @@
 5. **Update Data:**
 
    - Update the `publishedYear` of a specific book.
-   - Add a new field called `rating` to all books and set a default value.
+   - Add a new field called `rating` to all books and set a default value. 
 
 6. **Delete Data:**
 
-   - Delete a book by its `ISBN`.
-   - Remove all books of a particular genre.
+   - Delete a book by its `ISBN`. 
+   - Remove all books of a particular genre. 
+
 
 7. **Data Modeling Exercise:**
 
@@ -51,13 +52,14 @@
 
 8. **Aggregation Pipeline:**
 
-   - Use aggregation to find the total number of books per genre.
-   - Calculate the average published year of all books.
+   - Use aggregation to find the total number of books per genre. 
+   - Calculate the average published year of all books. 
+
    - Identify the top-rated book.
 
 9. **Indexing:**
 
-   - Create an index on the `author` field to optimize query performance.
+   - Create an index on the `author` field to optimize query performance. 
    - Explain the benefits of indexing in MongoDB.
 
 10. **Testing:**

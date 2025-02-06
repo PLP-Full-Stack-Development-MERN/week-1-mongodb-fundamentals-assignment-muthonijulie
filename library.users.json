@@ -1,0 +1,70 @@
+[{
+  "_id": {
+    "$oid": "67a49f87175b434fc2616eee"
+  },
+  "name": "Alice Johnson",
+  "email": "alice.johnson@gmail.com"
+},
+{
+  "_id": {
+    "$oid": "67a49f87175b434fc2616eef"
+  },
+  "name": "Bob Smith",
+  "email": "bob.smith@yahoo.com"
+},
+{
+  "_id": {
+    "$oid": "67a49f87175b434fc2616ef0"
+  },
+  "name": "Charlie Brown",
+  "email": "charlie.brown@gmail.com"
+},
+{
+  "_id": {
+    "$oid": "67a49f87175b434fc2616ef1"
+  },
+  "name": "David Williams",
+  "email": "david.williams@yahoo.com"
+},
+{
+  "_id": {
+    "$oid": "67a49f87175b434fc2616ef2"
+  },
+  "name": "Eve Davis",
+  "email": "eve.davis@hmail.com"
+},
+{
+  "_id": {
+    "$oid": "67a49f87175b434fc2616ef3"
+  },
+  "name": "Frank Miller",
+  "email": "frank.miller@yahoo.com"
+},
+{
+  "_id": {
+    "$oid": "67a49f87175b434fc2616ef4"
+  },
+  "name": "Grace Lee",
+  "email": "grace.lee@gmail.com"
+},
+{
+  "_id": {
+    "$oid": "67a49f87175b434fc2616ef5"
+  },
+  "name": "Hank Thompson",
+  "email": "hank.thompson@gmail.com"
+},
+{
+  "_id": {
+    "$oid": "67a49f87175b434fc2616ef6"
+  },
+  "name": "Ivy Clark",
+  "email": "ivy.clark@gmail.com"
+},
+{
+  "_id": {
+    "$oid": "67a49f87175b434fc2616ef7"
+  },
+  "name": "Jack Martin",
+  "email": "jack.martin@gmail.com"
+}]

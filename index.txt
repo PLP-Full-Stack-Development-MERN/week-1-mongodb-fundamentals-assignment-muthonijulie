@@ -1,0 +1,6 @@
+db.books.createIndex({author:1});
+Benefits of indexing in MongoDB:
+Has a fast query execution making it easier to query a large dat set.
+Reduced disk input/output operations
+Has optimized query plans.
+Since it is fast, it has enhanced dat quality.
